@@ -12,10 +12,6 @@ header {
   text-align: center;
 }
 
-footer {
-  text-align: center;
-}
-
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
 h2,
@@ -56,6 +52,10 @@ hr {
 
 a:link { color: #d62828; }
 a:hover { color: #f77f00;}
+
+footer p {
+  text-align: center;
+}
 
 /* Add your solution below */
 
